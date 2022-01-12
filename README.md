@@ -1,2 +1,3 @@
-# OtoparkOtomasyonProj
- OTOPARK OTOMASYONU
+# OtoparkOtomasyonProje
+ Otopark Otomasyon Projesi kullanıcının girmiş olduğu araba veya bisiklet olarak iki seçenekten oluşmaktadır.
+ Bu seçeneklerden Araba seçildiğinde arabanın; Markası, Modeli, Rengi, Plakası ve Araç Sahibi Ad, Soyadı ile kayıt altına alarak sisteme kaydetmektedir. Bisiklette de aynı seçenekler mevcut olup otopark sistemine giriş yapmaktadır. Daha sonrasında sisteme giriş yapılan araçlara fiş no ve giriş saati kayıt altına alarak ücretlendirme yapılır. Ücretlendirilen araçlar otoparktan çıkış yaparken de otopark ücretine tabi tutulur. Sonrasında aracın sistemden çıkış yapması sağlanır.
